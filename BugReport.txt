@@ -1,0 +1,7 @@
+Bugs:
+
+Rotation causes the app to die. -Fixed by forcing the app to only work in portait mode
+Writes an external file of acc and gyro data, but
+	sometimes makes multiple saves of same data in file
+Must update runtime permission
+Fairly certain we do not have a service running that does the data collection.

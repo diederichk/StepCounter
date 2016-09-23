@@ -61,10 +61,10 @@ public class SaveToFile extends Service implements SensorEventListener {
         start = true;
         store = new SaveData();
         store.start();
-        if(ActivityCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)
+        /*if(ActivityCompat.checkSelfPermission(this, Manifest.permission.WRITE_EXTERNAL_STORAGE)
                 != PackageManager.PERMISSION_GRANTED);{
             ActivityCompat.requestPermissions(this,Permissions,WritePermission);
-        }
+        }*/
 
 
     }

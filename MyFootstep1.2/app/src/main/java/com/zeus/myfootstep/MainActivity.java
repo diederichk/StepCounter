@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.pm.PackageManager;
 import android.hardware.Sensor;
+import android.os.PowerManager;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,10 +16,15 @@ import android.view.View;
 import android.widget.TextView;
 
 import java.util.Date;
+import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
 public class MainActivity extends AppCompatActivity {
-
+    public static boolean start = false;
+    Intent intent;
+    PowerManager powerManager;
+    PowerManager.WakeLock wakelock ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,21 +34,38 @@ public class MainActivity extends AppCompatActivity {
         IntentFilter filter = new IntentFilter();
         filter.addAction(SensorService.ACTION_FINISHED);
         registerReceiver(new MyRecieiver(), filter );
+        intent = new Intent(this, SensorService.class);
+        powerManager = (PowerManager) getSystemService(Context.POWER_SERVICE);
+        wakelock = powerManager.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK,"Acc");
     }
 
     public void startCollection(View view) {
-        Intent intent = new Intent(this, SensorService.class);
+        //Intent intent = new Intent(this, SensorService.class);
+        BlockingQueue<Data> q = new ArrayBlockingQueue<Data>(1000);
+        SensorService SS = new SensorService(q);
+        //SaveData SD = new SaveData(q);
         startService(intent);
+        start = true;
+        //new Thread(SD).start();
 
+        Log.i("start:", "start service");
 
     }
 
     public void stopCollection(View view) {
-        stop();
+        Log.i("stop:", "stop service");
+        stopService(intent);
+        start = false;
+
     }
 
-    public void stop(){
-
+    public void onStart(){
+        super.onStart();
+        wakelock.acquire();
+    }
+    public void onStop(){
+        super.onStop();
+        wakelock.release();
     }
 
     private class MyRecieiver extends BroadcastReceiver{

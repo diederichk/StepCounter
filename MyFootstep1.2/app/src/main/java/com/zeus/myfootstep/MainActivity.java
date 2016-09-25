@@ -47,12 +47,13 @@ public class MainActivity extends AppCompatActivity {
         startService(intent);
         start = true;
         //new Thread(SD).start();
-
+        Toast.makeText(getApplicationContext(),"Service Started \n Start Walking", Toast.LENGTH_SHORT).show();
         Log.i("start:", "start service");
 
     }
 
     public void stopCollection(View view) {
+        Toast.makeText(getApplicationContext(),"Service has been Stopped \n You have stopped Walking", Toast.LENGTH_SHORT).show();
         Log.i("stop:", "stop service");
         stopService(intent);
         start = false;

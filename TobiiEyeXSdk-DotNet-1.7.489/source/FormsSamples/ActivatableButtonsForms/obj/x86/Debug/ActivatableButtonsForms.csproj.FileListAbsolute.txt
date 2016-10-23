@@ -1,0 +1,13 @@
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\ActivatableButtonsForms.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\ActivatableButtonsForms.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.csprojResolveAssemblyReference.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.ActivatableButtonsForm.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.Properties.Resources.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.csproj.GenerateResource.Cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\FormsSamples\ActivatableButtonsForms\obj\x86\Debug\ActivatableButtonsForms.pdb

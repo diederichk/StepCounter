@@ -1,44 +1,21 @@
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\Tobii Eye tracker\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
-C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
-C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+\\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb

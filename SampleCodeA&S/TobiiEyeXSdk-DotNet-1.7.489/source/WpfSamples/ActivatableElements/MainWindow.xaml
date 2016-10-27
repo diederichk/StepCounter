@@ -82,7 +82,9 @@
                             <RowDefinition Height="10*" />
                             <RowDefinition Height="10*" />
                             <RowDefinition Height="10*" />
-                            <RowDefinition Height="5*" />
+                            <RowDefinition Height="10*" />
+
+                           
                         </Grid.RowDefinitions>
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="*" />
@@ -104,8 +106,8 @@
                 <Style>
                     <Setter Property="Grid.Column" Value="{Binding ColumnIndex}" />
                     <Setter Property="Grid.Row" Value="{Binding RowIndex}" />
-                    <Setter Property="Grid.ColumnSpan" Value="2" />
-                    <Setter Property="Grid.RowSpan" Value="3" />
+                    <Setter Property="Grid.ColumnSpan" Value="3" />
+                    <Setter Property="Grid.RowSpan" Value="1" />
                     <!-- By use of attached properties, we can specify that: the item is activatable,
                          that we do not want tentative activation focus events, and what handler should
                          be called when the item is activated. 
@@ -131,7 +133,7 @@
                             MouseLeftButtonUp="Note_OnMouseLeftButtonUp">
                         <TextBlock TextWrapping="WrapWithOverflow"
                                    TextAlignment="Center"
-                                   Padding="20"
+                                   Padding="5"
                                    VerticalAlignment="Center"
                                    Text="{Binding Text}" />
                     </Border>

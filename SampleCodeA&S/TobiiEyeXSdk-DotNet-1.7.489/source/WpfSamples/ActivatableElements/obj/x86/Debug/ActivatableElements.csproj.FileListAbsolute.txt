@@ -19,3 +19,5 @@
 \\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
 \\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
 \\home.iowa.uiowa.edu\ziqsu\Downloads\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\SampleCodeA&S\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb

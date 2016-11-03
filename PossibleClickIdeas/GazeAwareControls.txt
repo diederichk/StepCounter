@@ -1,0 +1,19 @@
+Gaze Aware Controls
+
+Link:
+http://developer.tobii.com/community/forums/topic/wpf-usercontrol-gazeawareness-odd-problem/
+
+Hi,
+
+I would like to display gaze aware UserControls on a MainWindow depending on which button is clicked.
+
+In order to do so, I have created a WPF program which display these UserControls on a grid called DisplayGrid. They are children of this grid depending of which button is activated. All Buttons are written ‘gaze aware’ in XAML code, which are MainWindow’s Buttons(MainButtons) and UserControls’ buttons.
+
+There is my problem and not a simple one : on the first MainButton activation, UserControl displayed is not gaze aware. Button on this UserControl don’t react to my gaze.
+Then I click on second MainButton, which display the second UserControl with its button, but this one is gaze aware.
+The next MainButton activations will result as the first problem, UserControls buttons will be not gaze aware.
+
+I don’t know from where the source problem is …
+I have tried a lot of things, and i only have solution which is to recreate UserControls objets (VehicleControlsUC and VentilationControlsUC) just before apply function changeUC(param). This is not what i planned to do …
+
+Maybe you could help me ?

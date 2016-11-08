@@ -142,7 +142,7 @@
 
         <StackPanel Grid.Row="1"  Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0 10 10">
 
-            <TextBlock x:Name="textwrapp" Text="Look at the item and use the Right Shift key to click. The MainWindow.xaml is a good starting point for understanding this sample."
+            <TextBlock x:Name="textwrapp" Text="Look at the item and use the Right Shift key to click."
                            TextAlignment="Left" 
                            VerticalAlignment="Center"
                            TextWrapping="Wrap"
@@ -163,7 +163,7 @@
                 Padding="10"
                 Click="RestoreWisdomButton_OnClick"
                 Style="{StaticResource EyeXActivatableButtonStyle}">
-                Restore wisdom
+                Restore
             </Button>
 
             <!-- The Close button specifies a command. 

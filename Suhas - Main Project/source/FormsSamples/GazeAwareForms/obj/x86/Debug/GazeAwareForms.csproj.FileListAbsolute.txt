@@ -14,6 +14,6 @@ C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.pdb
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Intro.resources
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.End.resources
-C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Page2.resources
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Page3.resources
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Page4.resources
+C:\Users\Suhas\Downloads\Tobii - Dot Net\source\FormsSamples\GazeAwareForms\obj\x86\Debug\GazeAwareForms.Page2.resources

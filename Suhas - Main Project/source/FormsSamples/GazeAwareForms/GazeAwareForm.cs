@@ -3,14 +3,12 @@
 //-----------------------------------------------------------------------
 
 using EyeXFramework;
-using System.ComponentModel;
 using System.Runtime.Serialization;
 using System.Windows.Forms;
 using System;
-using System.Collections;
-using System.Diagnostics;
-using System.Drawing;
-using System.Media;
+
+
+
 namespace GazeAwareForms
 {
     public partial class GazeAwareForm : Form
@@ -24,36 +22,36 @@ namespace GazeAwareForms
             // The panels should display a border when the user's gaze are on them.
             // Note that panel4 is nested inside panel2. This means that any time 
             // panel2 has the user's gaze, panel4 will too.
-            Program.EyeXHost.Connect(behaviorMap1);
-         
-          //  behaviorMap1.Add(panel3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 500 });
-           
-            behaviorMap1.Add(once, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(upon, new GazeAwareBehavior(OnGaze));
+            Program.EyeXHost.Connect(behaviorMap);
 
-            behaviorMap1.Add(a, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(time, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(there, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(lived, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(a2, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(lion, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(in1, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(a3, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(forest, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(one, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(day, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(after, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(a4, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(heavy, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(meal, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(it, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(was, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(sleeping, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(under, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(a5, new GazeAwareBehavior(OnGaze));
-            behaviorMap1.Add(tree, new GazeAwareBehavior(OnGaze));
+            //  behaviorMap1.Add(panel3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 500 });
 
-            behaviorMap1.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
+            behaviorMap.Add(once, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(upon, new GazeAwareBehavior(OnGaze));
+
+            behaviorMap.Add(a, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(time, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(there, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(lived, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(a2, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(lion, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(in1, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(a3, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(forest, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(one, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(day, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(after, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(a4, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(heavy, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(meal, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(it, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(was, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(sleeping, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(under, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(a5, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(tree, new GazeAwareBehavior(OnGaze));
+
+            behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)
@@ -63,14 +61,10 @@ namespace GazeAwareForms
 
         public void OnGaze(object sender, GazeAwareEventArgs e)
         {
-            var panel = sender as Panel;
+          
             var label = sender as Label;
             var button1 = sender as Button;
-            if (panel != null )
-            {
-                panel.BorderStyle = (e.HasGaze) ? BorderStyle.FixedSingle : BorderStyle.None;
-               
-            }
+
 
             if (label != null)
             {   
@@ -99,18 +93,16 @@ namespace GazeAwareForms
                  if (e.HasGaze == true)
                 {
                     button1_Click(sender,e);
-                }
+                } 
+              
             }
 
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // this.Close();
-
-
-            Page2 form = new Page2();
-            form.Show();
+           Page2 form = new Page2();
+           form.Show();
         }
 
     }

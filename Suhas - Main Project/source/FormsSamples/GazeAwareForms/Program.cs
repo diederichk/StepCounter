@@ -10,7 +10,7 @@ namespace GazeAwareForms
 
     static class Program
     {
-        private static FormsEyeXHost _eyeXHost = new FormsEyeXHost();
+        public static FormsEyeXHost _eyeXHost = new FormsEyeXHost();
 
         /// <summary>
         /// Gets the singleton EyeX host instance.

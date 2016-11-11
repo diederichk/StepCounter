@@ -2,10 +2,6 @@
 {
     partial class GazeAwareForm
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
-        private System.ComponentModel.IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -27,12 +23,12 @@
         /// Required method for Designer support - do not modify
         /// the contents of this method with the code editor.
         /// </summary>
-        private void InitializeComponent()
+        public void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GazeAwareForm));
             this.once = new System.Windows.Forms.Label();
-            this.behaviorMap1 = new EyeXFramework.Forms.BehaviorMap(this.components);
+            this.behaviorMap = new EyeXFramework.Forms.BehaviorMap(this.components);
             this.upon = new System.Windows.Forms.Label();
             this.a = new System.Windows.Forms.Label();
             this.time = new System.Windows.Forms.Label();
@@ -314,7 +310,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(3, 487);
-            this.button1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button1.Margin = new System.Windows.Forms.Padding(6);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(391, 63);
             this.button1.TabIndex = 30;
@@ -354,7 +350,7 @@
             this.Controls.Add(this.upon);
             this.Controls.Add(this.once);
             this.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(8, 8, 8, 8);
+            this.Margin = new System.Windows.Forms.Padding(8);
             this.Name = "GazeAwareForm";
             this.Text = "Gaze-Aware Windows Forms Sample";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
@@ -364,8 +360,8 @@
         }
 
         #endregion
-        public EyeXFramework.Forms.BehaviorMap behaviorMap1;
-        public EyeXFramework.Forms.BehaviorMap behaviorMap2;
+        public EyeXFramework.Forms.BehaviorMap behaviorMap;
+     
         private System.Windows.Forms.Label once;
         private System.Windows.Forms.Label upon;
         private System.Windows.Forms.Label a;
@@ -390,6 +386,7 @@
         private System.Windows.Forms.Label a5;
         private System.Windows.Forms.Label tree;
         private System.Windows.Forms.Button button1;
+        private System.ComponentModel.IContainer components;
     }
 }
 

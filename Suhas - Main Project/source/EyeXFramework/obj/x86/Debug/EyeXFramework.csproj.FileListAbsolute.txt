@@ -5,9 +5,3 @@ C:\Users\Suhas\Downloads\Tobii - Dot Net\source\EyeXFramework\bin\x86\Debug\Tobi
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
 C:\Users\Suhas\Downloads\Tobii - Dot Net\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
-F:\Iowa\CS4630_Mobile_Computing\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb

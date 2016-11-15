@@ -28,8 +28,8 @@ namespace EyeXFramework.Forms
         // Collection of behavior maps, that is, the objects holding the EyeX interactors and behaviors.
         // We use weak references because we don't want to prevent the Forms and Controls associated with 
         // the behavior maps from being reaped by the Grim Garbage Collector.
-        private readonly List<WeakReference> _behaviorMaps = new List<WeakReference>();
-
+       // private readonly List<WeakReference> _behaviorMaps = new List<WeakReference>();
+        private  List<WeakReference> _behaviorMaps = new List<WeakReference>();
         /// <summary>
         /// Initializes the EyeX host and enables the connection to the EyeX Engine.
         /// </summary>
@@ -46,6 +46,7 @@ namespace EyeXFramework.Forms
         /// <param name="behaviorMap">Map to be connected.</param>
         public void Connect(BehaviorMap behaviorMap)
         {
+       
             ((IComponent)behaviorMap).Disposed += OnBehaviorMapDisposed;
             _behaviorMaps.Add(new WeakReference(behaviorMap));
         }

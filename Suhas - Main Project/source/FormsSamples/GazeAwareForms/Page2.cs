@@ -13,6 +13,7 @@ namespace GazeAwareForms
         { 
          
             InitializeComponent();
+            button2.Hide();
             Program.EyeXHost.Connect(behaviorMap);
 
             behaviorMap.Add(label1, new GazeAwareBehavior(OnGaze));
@@ -47,7 +48,7 @@ namespace GazeAwareForms
             behaviorMap.Add(label30, new GazeAwareBehavior(OnGaze));
             behaviorMap.Add(label31, new GazeAwareBehavior(OnGaze));
             behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
-            behaviorMap.Add(button2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
+            //behaviorMap.Add(button2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
 
         }
 
@@ -62,7 +63,7 @@ namespace GazeAwareForms
         {
             var label = sender as Label;
             var button1 = sender as Button;
-            var button2 = sender as Button;
+           // var button2 = sender as Button;
             if (label != null)
             {
                 if (e.HasGaze == true)
@@ -94,31 +95,50 @@ namespace GazeAwareForms
               
             }
 
-            if (button2 != null)
-            {
-                if (e.HasGaze == true)
-                {
-                    button2_Click(sender, e);
-                }
+         //   if (button2 != null)
+         //   {
+         //       if (e.HasGaze == true)
+         //       {
+          //          button2_Click(sender, e);
+         //       }
                
-            }
+          //  }
 
         }
 
+      
         private void button1_Click(object sender, EventArgs e)
         {
             GazeAwareForm form = new GazeAwareForm();
-            form.Show();
+            form.Close();
+            this.Hide();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Page3 form1 = new Page3();
-            form1.Show(); 
-        }
+     //   private void button2_Click(object sender, EventArgs e)
+     //   {
+      //      GazeAwareForm form = new GazeAwareForm();
+      //      if (button1.Text == "Back")
+     //       {
+      //          form.Show();
+     //           this.Close();
+     //       }
 
+            //Page3 form = new Page3();
+            // form.Show(); 
 
-
+      //      if (button2.Text == "End")
+    //        {
+    //            this.Close();
+     //           form.Close();
+       //         Application.Exit();
+     //       }
+     //       else
+      //      {
+       //         form.Show();
+      //          this.Close();
+      //      }
+              
+      //  }
 
     }
 }

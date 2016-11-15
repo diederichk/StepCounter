@@ -100,10 +100,15 @@ namespace GazeAwareForms
         }
 
         private void button1_Click(object sender, EventArgs e)
+
         {
            Page2 form = new Page2();
            form.Show();
+           this.Hide();
+            
         }
+
+
 
     }
 }

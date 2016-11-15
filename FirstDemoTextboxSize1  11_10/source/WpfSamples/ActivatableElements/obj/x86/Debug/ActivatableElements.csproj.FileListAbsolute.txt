@@ -103,3 +103,24 @@ C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize
 C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
 C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
 C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+H:\GitHub\StepCounter\FirstDemoTextboxSize1  11_10\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache

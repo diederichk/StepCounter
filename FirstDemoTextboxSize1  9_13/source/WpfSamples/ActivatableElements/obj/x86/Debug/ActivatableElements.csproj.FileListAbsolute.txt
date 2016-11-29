@@ -1,0 +1,126 @@
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\TobiiEyeXSdk-DotNet-1.7.489\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\AnythingIsFine\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode2\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\SampleCode1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FirstDemoTextboxSize1\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.exe
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\ActivatableElements.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csprojResolveAssemblyReference.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_Content.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.cache
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements_MarkupCompile.lref
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\App.baml
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.g.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.Properties.Resources.resources
+C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\WpfSamples\ActivatableElements\obj\x86\Debug\ActivatableElements.csproj.GenerateResource.Cache

@@ -64,7 +64,6 @@
             this.once.Size = new System.Drawing.Size(134, 52);
             this.once.TabIndex = 0;
             this.once.Text = "Once";
-            this.once.Click += new System.EventHandler(this.once_Click);
             // 
             // upon
             // 

@@ -78,6 +78,10 @@ namespace GazeAwareForms
                     label.ForeColor  = System.Drawing.Color.Red;
                     label.BackColor = System.Drawing.Color.Yellow;
 
+                    myplayer.URL = audioURL + label.Text.ToLower() + ".mp3";
+                    myplayer.controls.play();
+
+                    /* Format
                     if (label.Text == "Once") 
                     {
                         myplayer.URL = audioURL + "once.mp3";
@@ -98,6 +102,7 @@ namespace GazeAwareForms
                         myplayer.URL = audioURL + "time.mp3";
                         myplayer.controls.play();
                     }
+                    */
                 }
                 else
                 {

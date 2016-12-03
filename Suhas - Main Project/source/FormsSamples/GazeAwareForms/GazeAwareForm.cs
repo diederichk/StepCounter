@@ -18,6 +18,8 @@ namespace GazeAwareForms
         public GazeAwareForm()
         {
             InitializeComponent();
+            var wordDelay = 150;
+            var pageDelay = 1200;
 
             // Add eye-gaze interaction behaviors to the panels on the form.
             // The panels should display a border when the user's gaze are on them.
@@ -27,32 +29,32 @@ namespace GazeAwareForms
 
             //  behaviorMap1.Add(panel3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 500 });
 
-            behaviorMap.Add(once, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(upon, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
+            behaviorMap.Add(once, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(upon, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
 
-            behaviorMap.Add(a, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(time, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(there, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(lived, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(a2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(lion, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(in1, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(a3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(forest, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(one, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(day, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(after, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(a4, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(heavy, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(meal, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(it, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(was, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(sleeping, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(under, new GazeAwareBehavior(OnGaze));
-            behaviorMap.Add(a5, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 150 });
-            behaviorMap.Add(tree, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(a, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(time, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(there, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(lived, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(a2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(lion, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(in1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(a3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(forest, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(one, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(day, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(after, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(a4, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(heavy, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(meal, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(it, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(was, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(sleeping, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(under, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(a5, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(tree, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
 
-            behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
+            behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)

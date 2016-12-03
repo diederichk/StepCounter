@@ -215,33 +215,33 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 11, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 12
             notes.Add(new Note(id++, 12, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 13
 
-            notes.Add(new Note(id++, 0, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
-            notes.Add(new Note(id++, 1, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
-            notes.Add(new Note(id++, 2, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 3
-            notes.Add(new Note(id++, 3, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 4
-            notes.Add(new Note(id++, 4, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 5
-            notes.Add(new Note(id++, 5, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 6
-            notes.Add(new Note(id++, 6, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 7
-            notes.Add(new Note(id++, 7, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 8
-            notes.Add(new Note(id++, 8, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   //9
-            notes.Add(new Note(id++, 9, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 10
-            notes.Add(new Note(id++, 10, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 11
-            notes.Add(new Note(id++, 11, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 12
-            notes.Add(new Note(id++, 12, 9, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   //13
+            notes.Add(new Note(id++, 0, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
+            notes.Add(new Note(id++, 1, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
+            notes.Add(new Note(id++, 2, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 3
+            notes.Add(new Note(id++, 3, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 4
+            notes.Add(new Note(id++, 4, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 5
+            notes.Add(new Note(id++, 5, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 6
+            notes.Add(new Note(id++, 6, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 7
+            notes.Add(new Note(id++, 7, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 8
+            notes.Add(new Note(id++, 8, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   //9
+            notes.Add(new Note(id++, 9, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 10
+            notes.Add(new Note(id++, 10, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 11
+            notes.Add(new Note(id++, 11, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 12
+            notes.Add(new Note(id++, 12, 11, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   //13
 
-            notes.Add(new Note(id++, 0, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
-            notes.Add(new Note(id++, 1, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
-            notes.Add(new Note(id++, 2, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 3
-            notes.Add(new Note(id++, 3, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 4
-            notes.Add(new Note(id++, 4, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 5
-            notes.Add(new Note(id++, 5, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 6
-            notes.Add(new Note(id++, 6, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 7
-            notes.Add(new Note(id++, 7, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 8
-            notes.Add(new Note(id++, 8, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 9
-            notes.Add(new Note(id++, 9, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 10
-            notes.Add(new Note(id++, 10, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 11
-            notes.Add(new Note(id++, 11, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 12
-            notes.Add(new Note(id++, 12, 10, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 13
+            notes.Add(new Note(id++, 0, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
+            notes.Add(new Note(id++, 1, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
+            notes.Add(new Note(id++, 2, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 3
+            notes.Add(new Note(id++, 3, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 4
+            notes.Add(new Note(id++, 4, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 5
+            notes.Add(new Note(id++, 5, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 6
+            notes.Add(new Note(id++, 6, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 7
+            notes.Add(new Note(id++, 7, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 8
+            notes.Add(new Note(id++, 8, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 9
+            notes.Add(new Note(id++, 9, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 10
+            notes.Add(new Note(id++, 10, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 11
+            notes.Add(new Note(id++, 11, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 12
+            notes.Add(new Note(id++, 12, 12, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 13
         }
     }
 

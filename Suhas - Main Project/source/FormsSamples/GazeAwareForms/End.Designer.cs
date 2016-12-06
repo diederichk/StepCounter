@@ -5,7 +5,7 @@
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        //private System.ComponentModel.IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -28,7 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(End));
+            this.behaviorMap = new EyeXFramework.Forms.BehaviorMap(this.components);
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -69,7 +71,9 @@
         }
 
         #endregion
+        public EyeXFramework.Forms.BehaviorMap behaviorMap;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.ComponentModel.IContainer components;
     }
 }

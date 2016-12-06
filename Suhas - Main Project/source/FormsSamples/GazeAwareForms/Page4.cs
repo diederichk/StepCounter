@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.Runtime.Serialization;
 using System.Windows.Forms;
+using WMPLib;
 using System;
 using System.Collections;
 using System.Diagnostics;
@@ -16,31 +17,28 @@ namespace GazeAwareForms
         public Page4()
         {
             InitializeComponent();
-            Program.EyeXHost.Connect(behaviorMap3);
+            var wordDelay = 150;
+            var pageDelay = 1200;
+
+            Program.EyeXHost.Connect(behaviorMap);
 
             //  behaviorMap1.Add(panel3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 500 });
 
-            behaviorMap3.Add(label1, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label2, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label3, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label4, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label5, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label6, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label7, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label8, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label9, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label10, new GazeAwareBehavior(OnGaze));
-            behaviorMap3.Add(label11, new GazeAwareBehavior(OnGaze));
+            behaviorMap.Add(label1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label4, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label5, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label6, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label7, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label8, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label9, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label10, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
+            behaviorMap.Add(label11, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
 
 
-            behaviorMap3.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
-            behaviorMap3.Add(button2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = 1200 });
-        }
-
-
-        public void GetObjectData(SerializationInfo info, StreamingContext context)
-        {
-            throw new NotImplementedException();
+            behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
+            behaviorMap.Add(button2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
         }
 
         public void OnGaze(object sender, GazeAwareEventArgs e)
@@ -50,6 +48,9 @@ namespace GazeAwareForms
             var button1 = sender as Button;
             var button2 = sender as Button;
 
+            var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
+
 
             if (label != null)
             {
@@ -58,11 +59,8 @@ namespace GazeAwareForms
                     label.ForeColor = System.Drawing.Color.Red;
                     label.BackColor = System.Drawing.Color.Yellow;
 
-                    if (label.Text == "hello") //@"G:\Music\akon -Smack That.mp3"
-                    {
-                        System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"c:\Windows\Media\chimes.wav");
-                        player.Play();
-                    }
+                    myplayer.URL = audioURL + label.Text.ToLower() + ".mp3";
+                    myplayer.controls.play();
                 }
                 else
                 {
@@ -99,12 +97,14 @@ namespace GazeAwareForms
         private void button1_Click(object sender, EventArgs e)
         {
             Page3 form = new Page3();
+            this.Hide();
             form.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             End form = new End();
+            this.Hide();
             form.Show();
         }
     }

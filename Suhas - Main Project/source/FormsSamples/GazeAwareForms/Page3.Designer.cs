@@ -5,7 +5,7 @@
         /// <summary>
         /// Required designer variable.
         /// </summary>
-        private System.ComponentModel.IContainer components = null;
+        //private System.ComponentModel.IContainer components = null;
 
         /// <summary>
         /// Clean up any resources being used.
@@ -31,7 +31,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Page3));
+            this.behaviorMap = new EyeXFramework.Forms.BehaviorMap(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -443,5 +445,6 @@
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.ComponentModel.IContainer components;
     }
 }

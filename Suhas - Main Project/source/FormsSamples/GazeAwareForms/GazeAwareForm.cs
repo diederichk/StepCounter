@@ -68,8 +68,9 @@ namespace GazeAwareForms
             var label = sender as Label;
             var button1 = sender as Button;
 
-            // Variables required to play sound
-            var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+        // Variables required to play sound
+        var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+         //var audioURL = "Audio\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
 
@@ -82,29 +83,6 @@ namespace GazeAwareForms
 
                     myplayer.URL = audioURL + label.Text.ToLower() + ".mp3";
                     myplayer.controls.play();
-
-                    /* Format
-                    if (label.Text == "Once") 
-                    {
-                        myplayer.URL = audioURL + "once.mp3";
-                        myplayer.controls.play();
-                    }
-                    if (label.Text == "upon")
-                    {
-                        myplayer.URL = audioURL + "upon.mp3";
-                        myplayer.controls.play();
-                    }
-                    if (label.Text == "a")
-                    {
-                        myplayer.URL = audioURL + "ah.mp3";
-                        myplayer.controls.play();
-                    }
-                    if (label.Text == "time")
-                    {
-                        myplayer.URL = audioURL + "time.mp3";
-                        myplayer.controls.play();
-                    }
-                    */
                 }
                 else
                 {

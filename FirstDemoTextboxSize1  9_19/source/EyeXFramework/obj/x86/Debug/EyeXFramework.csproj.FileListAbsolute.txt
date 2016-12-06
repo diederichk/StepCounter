@@ -25,10 +25,3 @@ C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample
 C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
 C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
 C:\Users\Zeus\Google Drive\Fall 2016 courses\Mobile computing\Project\CodeSample\FirstDemoTextboxSize1  9_13\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
-H:\GitHub\StepCounter\FirstDemoTextboxSize1  9_19\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb

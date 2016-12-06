@@ -78,12 +78,8 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 14, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 15
             notes.Add(new Note(id++, 15, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 16, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 17, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 18, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 19, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
+            notes.Add(new Note(id++, 17, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
+            notes.Add(new Note(id++, 18, 0, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
 
             notes.Add(new Note(id++, 0, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -104,11 +100,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 1, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-
 
             notes.Add(new Note(id++, 0, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -129,11 +120,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 2, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-
 
             notes.Add(new Note(id++, 0, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -154,11 +140,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17            
-            notes.Add(new Note(id++, 19, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 3, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-
 
             notes.Add(new Note(id++, 0, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -179,10 +160,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 15
             notes.Add(new Note(id++, 17, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 4, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
 
             notes.Add(new Note(id++, 0, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -203,10 +180,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 5, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
 
             notes.Add(new Note(id++, 0, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -227,10 +200,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 6, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
 
             notes.Add(new Note(id++, 0, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -251,10 +220,6 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 7, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
 
             notes.Add(new Note(id++, 0, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 1
             notes.Add(new Note(id++, 1, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 2
@@ -275,14 +240,10 @@ namespace ActivatableElements
             notes.Add(new Note(id++, 16, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
             notes.Add(new Note(id++, 17, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 16
             notes.Add(new Note(id++, 18, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 17
-            notes.Add(new Note(id++, 19, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 20, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
-            notes.Add(new Note(id++, 21, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 18
-            notes.Add(new Note(id++, 22, 8, Colors.White, System.Windows.Media.Brushes.DarkBlue));                   // 19
 
+            
 
-
-
+            
         }
     }
 
@@ -313,10 +274,6 @@ namespace ActivatableElements
                 "17",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
                 
                 // 2
                 "2",
@@ -338,11 +295,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
-
 
                 // 3
                 "3",
@@ -364,10 +316,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 4
                 "4",
@@ -389,10 +337,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 5
                 "5",
@@ -414,10 +358,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 6
                 "6",
@@ -439,10 +379,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 7
                 "7",
@@ -464,10 +400,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 8
                 "8",
@@ -489,10 +421,6 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
                 // 9
                 "9",
@@ -514,13 +442,9 @@ namespace ActivatableElements
                 "a",
                 "18",
                 "19",
-                "20",
-                "21",
-                "22",
-                "23",
 
-
-
+               
+                
 
             }; 
 

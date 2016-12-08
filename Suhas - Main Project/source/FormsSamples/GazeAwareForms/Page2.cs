@@ -14,8 +14,9 @@ namespace GazeAwareForms
         { 
          
             InitializeComponent();
-            var wordDelay = 150;
+            var wordDelay = 325;
             var pageDelay = 1200;
+            DoubleBuffered = true;
 
             //button2.Hide();
             Program.EyeXHost.Connect(behaviorMap);
@@ -69,7 +70,7 @@ namespace GazeAwareForms
             var button1 = sender as Button;
             var button2 = sender as Button;
 
-            var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
             if (label != null)
@@ -116,8 +117,8 @@ namespace GazeAwareForms
         private void button1_Click(object sender, EventArgs e)
         {
             GazeAwareForm form = new GazeAwareForm();
-            form.Close();
             this.Hide();
+            form.Show();
         }
 
         private void button2_Click_1(object sender, EventArgs e)

@@ -12,8 +12,10 @@ namespace GazeAwareForms
         public Page3()
         {
             InitializeComponent();
-            var wordDelay = 150;
+            var wordDelay = 325;
             var pageDelay = 1200;
+            DoubleBuffered = true;
+
             Program.EyeXHost.Connect(behaviorMap);
 
             behaviorMap.Add(label1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
@@ -51,13 +53,18 @@ namespace GazeAwareForms
 
         }
 
+        public void GetObjectData(SerializationInfo info, StreamingContext context)
+        {
+            throw new NotImplementedException();
+        }
+
         public void OnGaze(object sender, GazeAwareEventArgs e)
         {
             var label = sender as Label;
             var button1 = sender as Button;
             var button2 = sender as Button;
 
-            var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
             if (label != null)

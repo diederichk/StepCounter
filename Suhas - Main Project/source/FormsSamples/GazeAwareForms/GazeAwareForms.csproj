@@ -158,6 +158,7 @@
       <DependentUpon>UserControl1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -174,6 +175,20 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="images\The Lion And The Mouse Poem 1.jpg" />
+    <None Include="Resources\intro.jpg" />
+    <None Include="Resources\playingmouse.jpg" />
+    <None Include="Resources\sleepingLion2.jpg" />
+    <None Include="Resources\exit_button.jpg" />
+    <None Include="Resources\button-play-again.png" />
+    <None Include="Resources\end.jpg" />
+    <None Include="Resources\happylion.jpg" />
+    <None Include="Resources\mouse1.jpg" />
+    <None Include="Resources\mouse.jpg" />
+    <None Include="Resources\Back Button icon.png" />
+    <None Include="Resources\sleepingLion1.jpg" />
+    <None Include="Resources\next-page-button.gif" />
+    <None Include="Resources\sleepingLion.jpg" />
+    <None Include="Resources\forestTree.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0">

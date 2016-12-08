@@ -28,7 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Intro));
+            this.behaviorMap = new EyeXFramework.Forms.BehaviorMap(this.components);
             this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -37,9 +39,9 @@
             this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.button1.Font = new System.Drawing.Font("Monotype Corsiva", 16.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(12, 253);
+            this.button1.Location = new System.Drawing.Point(104, 237);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(273, 103);
+            this.button1.Size = new System.Drawing.Size(437, 203);
             this.button1.TabIndex = 0;
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -48,9 +50,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::GazeAwareForms.Properties.Resources.intro;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1182, 553);
+            this.ClientSize = new System.Drawing.Size(1914, 1045);
             this.Controls.Add(this.button1);
             this.Name = "Intro";
             this.Text = "Intro";
@@ -60,7 +62,7 @@
         }
 
         #endregion
-
+        public EyeXFramework.Forms.BehaviorMap behaviorMap;
         private System.Windows.Forms.Button button1;
     }
 }

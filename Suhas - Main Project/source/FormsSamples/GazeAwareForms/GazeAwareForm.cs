@@ -7,19 +7,23 @@ using System.Runtime.Serialization;
 using System.Windows.Forms;
 using WMPLib;
 using System;
-
-
+using System.Collections.Generic;
+using System.Drawing;
 
 namespace GazeAwareForms
 {
     public partial class GazeAwareForm : Form
     {
-        
+
+        public override Size MaximumSize { get; set; }
+
         public GazeAwareForm()
         {
             InitializeComponent();
-            var wordDelay = 150;
+            this.MaximumSize = new System.Drawing.Size(1932, 1092);
+            var wordDelay = 325;
             var pageDelay = 1200;
+            DoubleBuffered = true;
 
             // Add eye-gaze interaction behaviors to the panels on the form.
             // The panels should display a border when the user's gaze are on them.
@@ -55,6 +59,7 @@ namespace GazeAwareForms
             behaviorMap.Add(tree, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
 
             behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
+           
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)
@@ -67,10 +72,12 @@ namespace GazeAwareForms
           
             var label = sender as Label;
             var button1 = sender as Button;
+            var button3 = sender as Button;
 
         // Variables required to play sound
-        var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
-         //var audioURL = "Audio\\";
+       // var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
+            //var audioURL = "Audio\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
 
@@ -102,15 +109,21 @@ namespace GazeAwareForms
               
             }
 
+           
+
         }
 
         private void button1_Click(object sender, EventArgs e)
 
         {
+            //next button
+            
            Page2 form = new Page2();
            form.Show();
            this.Hide();
-            
+           
         }
+
+     
     }
 }

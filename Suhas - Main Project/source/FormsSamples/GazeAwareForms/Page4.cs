@@ -1,14 +1,8 @@
 ﻿using EyeXFramework;
-using System.ComponentModel;
 using System.Runtime.Serialization;
 using System.Windows.Forms;
 using WMPLib;
 using System;
-using System.Collections;
-using System.Diagnostics;
-using System.Drawing;
-using System.Media;
-using GazeAwareForms;
 
 namespace GazeAwareForms
 {
@@ -17,8 +11,9 @@ namespace GazeAwareForms
         public Page4()
         {
             InitializeComponent();
-            var wordDelay = 150;
+            var wordDelay = 325;
             var pageDelay = 1200;
+            DoubleBuffered = true;
 
             Program.EyeXHost.Connect(behaviorMap);
 
@@ -41,6 +36,12 @@ namespace GazeAwareForms
             behaviorMap.Add(button2, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
         }
 
+
+        public void GetObjectData(SerializationInfo info, StreamingContext context)
+        {
+            throw new NotImplementedException();
+        }
+
         public void OnGaze(object sender, GazeAwareEventArgs e)
         {
 
@@ -48,7 +49,7 @@ namespace GazeAwareForms
             var button1 = sender as Button;
             var button2 = sender as Button;
 
-            var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
 

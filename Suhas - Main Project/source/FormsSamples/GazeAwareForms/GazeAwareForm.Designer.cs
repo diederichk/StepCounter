@@ -26,9 +26,8 @@
         public void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GazeAwareForm));
-            this.once = new System.Windows.Forms.Label();
             this.behaviorMap = new EyeXFramework.Forms.BehaviorMap(this.components);
+            this.once = new System.Windows.Forms.Label();
             this.upon = new System.Windows.Forms.Label();
             this.a = new System.Windows.Forms.Label();
             this.time = new System.Windows.Forms.Label();
@@ -52,16 +51,18 @@
             this.a5 = new System.Windows.Forms.Label();
             this.tree = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // once
             // 
             this.once.AutoSize = true;
+            this.once.BackColor = System.Drawing.SystemColors.Control;
             this.once.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.once.Location = new System.Drawing.Point(38, 77);
+            this.once.Location = new System.Drawing.Point(46, 71);
             this.once.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.once.Name = "once";
-            this.once.Size = new System.Drawing.Size(134, 52);
+            this.once.Size = new System.Drawing.Size(84, 33);
             this.once.TabIndex = 0;
             this.once.Text = "Once";
             // 
@@ -69,10 +70,10 @@
             // 
             this.upon.AutoSize = true;
             this.upon.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.upon.Location = new System.Drawing.Point(209, 77);
+            this.upon.Location = new System.Drawing.Point(195, 71);
             this.upon.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.upon.Name = "upon";
-            this.upon.Size = new System.Drawing.Size(134, 52);
+            this.upon.Size = new System.Drawing.Size(85, 33);
             this.upon.TabIndex = 8;
             this.upon.Text = "upon";
             // 
@@ -80,10 +81,10 @@
             // 
             this.a.AutoSize = true;
             this.a.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.a.Location = new System.Drawing.Point(379, 77);
+            this.a.Location = new System.Drawing.Point(349, 71);
             this.a.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.a.Name = "a";
-            this.a.Size = new System.Drawing.Size(49, 52);
+            this.a.Size = new System.Drawing.Size(31, 33);
             this.a.TabIndex = 9;
             this.a.Text = "a";
             // 
@@ -91,10 +92,10 @@
             // 
             this.time.AutoSize = true;
             this.time.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.time.Location = new System.Drawing.Point(480, 77);
+            this.time.Location = new System.Drawing.Point(455, 71);
             this.time.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.time.Name = "time";
-            this.time.Size = new System.Drawing.Size(118, 52);
+            this.time.Size = new System.Drawing.Size(74, 33);
             this.time.TabIndex = 10;
             this.time.Text = "time";
             // 
@@ -102,10 +103,10 @@
             // 
             this.there.AutoSize = true;
             this.there.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.there.Location = new System.Drawing.Point(631, 77);
+            this.there.Location = new System.Drawing.Point(603, 71);
             this.there.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.there.Name = "there";
-            this.there.Size = new System.Drawing.Size(136, 52);
+            this.there.Size = new System.Drawing.Size(84, 33);
             this.there.TabIndex = 11;
             this.there.Text = "there";
             // 
@@ -113,10 +114,10 @@
             // 
             this.lived.AutoSize = true;
             this.lived.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lived.Location = new System.Drawing.Point(801, 77);
+            this.lived.Location = new System.Drawing.Point(767, 71);
             this.lived.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lived.Name = "lived";
-            this.lived.Size = new System.Drawing.Size(123, 52);
+            this.lived.Size = new System.Drawing.Size(76, 33);
             this.lived.TabIndex = 12;
             this.lived.Text = "lived";
             // 
@@ -124,10 +125,10 @@
             // 
             this.a2.AutoSize = true;
             this.a2.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.a2.Location = new System.Drawing.Point(972, 77);
+            this.a2.Location = new System.Drawing.Point(920, 71);
             this.a2.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.a2.Name = "a2";
-            this.a2.Size = new System.Drawing.Size(49, 52);
+            this.a2.Size = new System.Drawing.Size(31, 33);
             this.a2.TabIndex = 13;
             this.a2.Text = "a";
             // 
@@ -135,10 +136,10 @@
             // 
             this.lion.AutoSize = true;
             this.lion.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lion.Location = new System.Drawing.Point(1063, 77);
+            this.lion.Location = new System.Drawing.Point(1020, 71);
             this.lion.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.lion.Name = "lion";
-            this.lion.Size = new System.Drawing.Size(103, 52);
+            this.lion.Size = new System.Drawing.Size(65, 33);
             this.lion.TabIndex = 14;
             this.lion.Text = "lion";
             // 
@@ -146,10 +147,10 @@
             // 
             this.in1.AutoSize = true;
             this.in1.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.in1.Location = new System.Drawing.Point(1190, 77);
+            this.in1.Location = new System.Drawing.Point(1175, 71);
             this.in1.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.in1.Name = "in1";
-            this.in1.Size = new System.Drawing.Size(65, 52);
+            this.in1.Size = new System.Drawing.Size(41, 33);
             this.in1.TabIndex = 15;
             this.in1.Text = "in";
             // 
@@ -157,10 +158,10 @@
             // 
             this.a3.AutoSize = true;
             this.a3.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.a3.Location = new System.Drawing.Point(111, 140);
+            this.a3.Location = new System.Drawing.Point(1303, 71);
             this.a3.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.a3.Name = "a3";
-            this.a3.Size = new System.Drawing.Size(49, 52);
+            this.a3.Size = new System.Drawing.Size(31, 33);
             this.a3.TabIndex = 16;
             this.a3.Text = "a";
             // 
@@ -168,10 +169,10 @@
             // 
             this.forest.AutoSize = true;
             this.forest.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.forest.Location = new System.Drawing.Point(187, 140);
+            this.forest.Location = new System.Drawing.Point(1424, 71);
             this.forest.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.forest.Name = "forest";
-            this.forest.Size = new System.Drawing.Size(145, 52);
+            this.forest.Size = new System.Drawing.Size(92, 33);
             this.forest.TabIndex = 17;
             this.forest.Text = "forest";
             // 
@@ -179,10 +180,10 @@
             // 
             this.one.AutoSize = true;
             this.one.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.one.Location = new System.Drawing.Point(61, 210);
+            this.one.Location = new System.Drawing.Point(107, 208);
             this.one.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.one.Name = "one";
-            this.one.Size = new System.Drawing.Size(111, 52);
+            this.one.Size = new System.Drawing.Size(69, 33);
             this.one.TabIndex = 18;
             this.one.Text = "One";
             // 
@@ -190,10 +191,10 @@
             // 
             this.day.AutoSize = true;
             this.day.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.day.Location = new System.Drawing.Point(232, 210);
+            this.day.Location = new System.Drawing.Point(256, 208);
             this.day.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.day.Name = "day";
-            this.day.Size = new System.Drawing.Size(100, 52);
+            this.day.Size = new System.Drawing.Size(63, 33);
             this.day.TabIndex = 19;
             this.day.Text = "day";
             // 
@@ -201,10 +202,10 @@
             // 
             this.after.AutoSize = true;
             this.after.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.after.Location = new System.Drawing.Point(399, 210);
+            this.after.Location = new System.Drawing.Point(388, 208);
             this.after.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.after.Name = "after";
-            this.after.Size = new System.Drawing.Size(123, 52);
+            this.after.Size = new System.Drawing.Size(77, 33);
             this.after.TabIndex = 20;
             this.after.Text = "after";
             // 
@@ -212,10 +213,10 @@
             // 
             this.a4.AutoSize = true;
             this.a4.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.a4.Location = new System.Drawing.Point(588, 210);
+            this.a4.Location = new System.Drawing.Point(565, 208);
             this.a4.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.a4.Name = "a4";
-            this.a4.Size = new System.Drawing.Size(49, 52);
+            this.a4.Size = new System.Drawing.Size(31, 33);
             this.a4.TabIndex = 21;
             this.a4.Text = "a";
             // 
@@ -223,10 +224,10 @@
             // 
             this.heavy.AutoSize = true;
             this.heavy.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.heavy.Location = new System.Drawing.Point(725, 210);
+            this.heavy.Location = new System.Drawing.Point(696, 208);
             this.heavy.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.heavy.Name = "heavy";
-            this.heavy.Size = new System.Drawing.Size(149, 52);
+            this.heavy.Size = new System.Drawing.Size(92, 33);
             this.heavy.TabIndex = 22;
             this.heavy.Text = "heavy";
             // 
@@ -234,10 +235,10 @@
             // 
             this.meal.AutoSize = true;
             this.meal.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.meal.Location = new System.Drawing.Point(933, 210);
+            this.meal.Location = new System.Drawing.Point(891, 208);
             this.meal.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.meal.Name = "meal";
-            this.meal.Size = new System.Drawing.Size(127, 52);
+            this.meal.Size = new System.Drawing.Size(79, 33);
             this.meal.TabIndex = 23;
             this.meal.Text = "meal";
             // 
@@ -245,10 +246,10 @@
             // 
             this.it.AutoSize = true;
             this.it.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.it.Location = new System.Drawing.Point(54, 297);
+            this.it.Location = new System.Drawing.Point(1074, 208);
             this.it.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.it.Name = "it";
-            this.it.Size = new System.Drawing.Size(55, 52);
+            this.it.Size = new System.Drawing.Size(35, 33);
             this.it.TabIndex = 24;
             this.it.Text = "It";
             // 
@@ -256,10 +257,10 @@
             // 
             this.was.AutoSize = true;
             this.was.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.was.Location = new System.Drawing.Point(151, 297);
+            this.was.Location = new System.Drawing.Point(1213, 208);
             this.was.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.was.Name = "was";
-            this.was.Size = new System.Drawing.Size(106, 52);
+            this.was.Size = new System.Drawing.Size(68, 33);
             this.was.TabIndex = 25;
             this.was.Text = "was";
             // 
@@ -267,10 +268,10 @@
             // 
             this.sleeping.AutoSize = true;
             this.sleeping.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.sleeping.Location = new System.Drawing.Point(313, 297);
+            this.sleeping.Location = new System.Drawing.Point(1375, 208);
             this.sleeping.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.sleeping.Name = "sleeping";
-            this.sleeping.Size = new System.Drawing.Size(200, 52);
+            this.sleeping.Size = new System.Drawing.Size(124, 33);
             this.sleeping.TabIndex = 26;
             this.sleeping.Text = "sleeping";
             // 
@@ -278,10 +279,10 @@
             // 
             this.under.AutoSize = true;
             this.under.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.under.Location = new System.Drawing.Point(588, 297);
+            this.under.Location = new System.Drawing.Point(1573, 208);
             this.under.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.under.Name = "under";
-            this.under.Size = new System.Drawing.Size(152, 52);
+            this.under.Size = new System.Drawing.Size(95, 33);
             this.under.TabIndex = 27;
             this.under.Text = "under";
             // 
@@ -289,10 +290,10 @@
             // 
             this.a5.AutoSize = true;
             this.a5.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.a5.Location = new System.Drawing.Point(776, 297);
+            this.a5.Location = new System.Drawing.Point(1736, 208);
             this.a5.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.a5.Name = "a5";
-            this.a5.Size = new System.Drawing.Size(49, 52);
+            this.a5.Size = new System.Drawing.Size(31, 33);
             this.a5.TabIndex = 28;
             this.a5.Text = "a";
             // 
@@ -300,31 +301,43 @@
             // 
             this.tree.AutoSize = true;
             this.tree.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tree.Location = new System.Drawing.Point(870, 297);
+            this.tree.Location = new System.Drawing.Point(1833, 208);
             this.tree.Margin = new System.Windows.Forms.Padding(6, 0, 6, 0);
             this.tree.Name = "tree";
-            this.tree.Size = new System.Drawing.Size(107, 52);
+            this.tree.Size = new System.Drawing.Size(66, 33);
             this.tree.TabIndex = 29;
             this.tree.Text = "tree";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(3, 487);
+            this.button1.BackgroundImage = global::GazeAwareForms.Properties.Resources.next_page_button;
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Location = new System.Drawing.Point(635, 827);
             this.button1.Margin = new System.Windows.Forms.Padding(6);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(391, 63);
+            this.button1.Size = new System.Drawing.Size(400, 150);
             this.button1.TabIndex = 30;
-            this.button1.Text = "Next";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button2
+            // 
+            this.button2.BackgroundImage = global::GazeAwareForms.Properties.Resources.sleepingLion2;
+            this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button2.Location = new System.Drawing.Point(1371, 670);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(521, 307);
+            this.button2.TabIndex = 31;
+            this.button2.UseVisualStyleBackColor = true;
+            // 
             // GazeAwareForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(27F, 48F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(17F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.BackgroundImage = global::GazeAwareForms.Properties.Resources.forestTree;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1406, 553);
+            this.ClientSize = new System.Drawing.Size(1914, 1045);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.tree);
             this.Controls.Add(this.a5);
@@ -387,6 +400,7 @@
         private System.Windows.Forms.Label tree;
         private System.Windows.Forms.Button button1;
         private System.ComponentModel.IContainer components;
+        private System.Windows.Forms.Button button2;
     }
 }
 

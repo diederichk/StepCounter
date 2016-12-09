@@ -63,8 +63,6 @@
             this.label31 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -73,9 +71,9 @@
             this.label1.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(57, 58);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(89, 33);
+            this.label1.Size = new System.Drawing.Size(80, 33);
             this.label1.TabIndex = 0;
-            this.label1.Text = "After ";
+            this.label1.Text = "After";
             // 
             // label2
             // 
@@ -201,7 +199,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(449, 187);
+            this.label14.Location = new System.Drawing.Point(506, 187);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(58, 33);
             this.label14.TabIndex = 13;
@@ -211,7 +209,7 @@
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(597, 187);
+            this.label15.Location = new System.Drawing.Point(641, 187);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(74, 33);
             this.label15.TabIndex = 14;
@@ -321,7 +319,7 @@
             // 
             this.label26.AutoSize = true;
             this.label26.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(1626, 317);
+            this.label26.Location = new System.Drawing.Point(1636, 317);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(89, 33);
             this.label26.TabIndex = 25;
@@ -331,7 +329,7 @@
             // 
             this.label27.AutoSize = true;
             this.label27.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label27.Location = new System.Drawing.Point(1782, 317);
+            this.label27.Location = new System.Drawing.Point(506, 445);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(71, 33);
             this.label27.TabIndex = 26;
@@ -341,7 +339,7 @@
             // 
             this.label28.AutoSize = true;
             this.label28.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(416, 445);
+            this.label28.Location = new System.Drawing.Point(641, 445);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(145, 33);
             this.label28.TabIndex = 27;
@@ -351,7 +349,7 @@
             // 
             this.label29.AutoSize = true;
             this.label29.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label29.Location = new System.Drawing.Point(636, 445);
+            this.label29.Location = new System.Drawing.Point(875, 445);
             this.label29.Name = "label29";
             this.label29.Size = new System.Drawing.Size(49, 33);
             this.label29.TabIndex = 28;
@@ -361,7 +359,7 @@
             // 
             this.label30.AutoSize = true;
             this.label30.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label30.Location = new System.Drawing.Point(761, 445);
+            this.label30.Location = new System.Drawing.Point(1003, 445);
             this.label30.Name = "label30";
             this.label30.Size = new System.Drawing.Size(70, 33);
             this.label30.TabIndex = 29;
@@ -371,7 +369,7 @@
             // 
             this.label31.AutoSize = true;
             this.label31.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label31.Location = new System.Drawing.Point(919, 445);
+            this.label31.Location = new System.Drawing.Point(1144, 445);
             this.label31.Name = "label31";
             this.label31.Size = new System.Drawing.Size(83, 33);
             this.label31.TabIndex = 30;
@@ -381,11 +379,13 @@
             // 
             this.button1.BackgroundImage = global::GazeAwareForms.Properties.Resources.Back_Button_icon;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(63, 829);
+            this.button1.Font = new System.Drawing.Font("Brush Script MT", 1.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.Location = new System.Drawing.Point(341, 829);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(400, 150);
             this.button1.TabIndex = 31;
+            this.button1.Text = "Back";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -393,33 +393,14 @@
             // 
             this.button2.BackgroundImage = global::GazeAwareForms.Properties.Resources.next_page_button;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.Font = new System.Drawing.Font("Bookman Old Style", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(626, 829);
+            this.button2.Font = new System.Drawing.Font("Bookman Old Style", 1.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(1065, 829);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(400, 150);
             this.button2.TabIndex = 32;
+            this.button2.Text = "Next";
             this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click_1);
-            // 
-            // button3
-            // 
-            this.button3.BackgroundImage = global::GazeAwareForms.Properties.Resources.sleepingLion2;
-            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button3.Location = new System.Drawing.Point(1353, 672);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(521, 307);
-            this.button3.TabIndex = 33;
-            this.button3.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.BackgroundImage = global::GazeAwareForms.Properties.Resources.playingmouse;
-            this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button4.Location = new System.Drawing.Point(1600, 549);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(147, 185);
-            this.button4.TabIndex = 34;
-            this.button4.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Page2
             // 
@@ -428,8 +409,6 @@
             this.BackgroundImage = global::GazeAwareForms.Properties.Resources.forestTree;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1914, 1045);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label31);
@@ -507,7 +486,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.ComponentModel.IContainer components;// = null;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
+       
     }
 }

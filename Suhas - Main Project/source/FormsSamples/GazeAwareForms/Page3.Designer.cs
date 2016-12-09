@@ -142,9 +142,9 @@
             this.label8.Font = new System.Drawing.Font("Book Antiqua", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(1142, 56);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(150, 35);
+            this.label8.Size = new System.Drawing.Size(136, 35);
             this.label8.TabIndex = 7;
-            this.label8.Text = "treambling";
+            this.label8.Text = "trembling";
             // 
             // label9
             // 
@@ -172,9 +172,9 @@
             this.label11.Font = new System.Drawing.Font("Book Antiqua", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(133, 179);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(68, 35);
+            this.label11.Size = new System.Drawing.Size(61, 35);
             this.label11.TabIndex = 10;
-            this.label11.Text = "The ";
+            this.label11.Text = "The";
             // 
             // label12
             // 
@@ -350,11 +350,13 @@
             // 
             this.button1.BackgroundImage = global::GazeAwareForms.Properties.Resources.Back_Button_icon;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button1.Font = new System.Drawing.Font("Book Antiqua", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(247, 787);
+            this.button1.Font = new System.Drawing.Font("Book Antiqua", 1.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.Red;
+            this.button1.Location = new System.Drawing.Point(338, 826);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(400, 150);
             this.button1.TabIndex = 29;
+            this.button1.Text = "Back";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -362,11 +364,13 @@
             // 
             this.button2.BackgroundImage = global::GazeAwareForms.Properties.Resources.next_page_button;
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.button2.Font = new System.Drawing.Font("Book Antiqua", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(904, 787);
+            this.button2.Font = new System.Drawing.Font("Book Antiqua", 1.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.ForeColor = System.Drawing.Color.Yellow;
+            this.button2.Location = new System.Drawing.Point(1027, 826);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(400, 150);
             this.button2.TabIndex = 30;
+            this.button2.Text = "Next";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -11,7 +11,7 @@ namespace GazeAwareForms
         public Page4()
         {
             InitializeComponent();
-            var wordDelay = 325;
+            var wordDelay = 305;
             var pageDelay = 1200;
             DoubleBuffered = true;
 
@@ -46,8 +46,8 @@ namespace GazeAwareForms
         {
 
             var label = sender as Label;
-            var button1 = sender as Button;
-            var button2 = sender as Button;
+            var button = sender as Button;
+      
 
             var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
@@ -72,23 +72,23 @@ namespace GazeAwareForms
 
             }
 
-            if (button1 != null)
+            if (button != null)
             {
-                if (e.HasGaze == true)
+                if (button.Text == "Back")
                 {
-                    button1_Click(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button1_Click(sender, e);
+                    }
                 }
-          
-            }
-
-
-            if (button2 != null)
-            {
-                if (e.HasGaze == true)
+                else if (button.Text == "Next")
                 {
-                    button2_Click(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button2_Click(sender, e);
+                    }
                 }
-             
+
             }
 
 

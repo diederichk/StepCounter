@@ -21,7 +21,7 @@ namespace GazeAwareForms
         {
             InitializeComponent();
             this.MaximumSize = new System.Drawing.Size(1932, 1092);
-            var wordDelay = 325;
+            var wordDelay = 305;
             var pageDelay = 1200;
             DoubleBuffered = true;
 
@@ -59,7 +59,8 @@ namespace GazeAwareForms
             behaviorMap.Add(tree, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = wordDelay });
 
             behaviorMap.Add(button1, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
-           
+            behaviorMap.Add(button3, new GazeAwareBehavior(OnGaze) { DelayMilliseconds = pageDelay });
+
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)
@@ -71,8 +72,8 @@ namespace GazeAwareForms
         {
           
             var label = sender as Label;
-            var button1 = sender as Button;
-            var button3 = sender as Button;
+            var button = sender as Button;
+    
 
         // Variables required to play sound
        // var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
@@ -100,16 +101,26 @@ namespace GazeAwareForms
 
             }
 
-            if (button1 != null)
+            if (button != null)
             {
-                 if (e.HasGaze == true)
+                if (button.Text == "Next")
                 {
-                    button1_Click(sender,e);
-                } 
-              
+                    if (e.HasGaze == true)
+                    {
+                        button1_Click(sender, e);
+                    }
+                }
+                else if (button.Text == "Back")
+                {
+                    if (e.HasGaze == true)
+                    {
+                        button3_Click(sender, e);
+                    }
+                }
+
             }
 
-           
+
 
         }
 
@@ -124,6 +135,11 @@ namespace GazeAwareForms
            
         }
 
-     
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Intro form = new Intro();
+            form.Show();
+            this.Hide();
+        }
     }
 }

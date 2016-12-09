@@ -30,23 +30,23 @@ namespace GazeAwareForms
 
         public void OnGaze(object sender, GazeAwareEventArgs e)
         {
-            var button3 = sender as Button;
-            var button2 = sender as Button;
-
-            if (button3 != null)
+            var button = sender as Button;
+          
+            if (button != null)
             {
-                if (e.HasGaze == true)
+                if (button.Text == "PlayAgain")
                 {
-                    button3_Click(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button3_Click(sender, e);
+                    }
                 }
-
-            }
-
-            if (button2 != null)
-            {
-                if (e.HasGaze == true)
+                else if (button.Text == "Exit")
                 {
-                    button2_Click(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button2_Click(sender, e);
+                    }
                 }
 
             }
@@ -61,7 +61,7 @@ namespace GazeAwareForms
 
         private void button3_Click(object sender, EventArgs e)
         {
-            GazeAwareForm form = new GazeAwareForm();
+            Intro form = new Intro();
             this.Hide();
             form.Show();
         }

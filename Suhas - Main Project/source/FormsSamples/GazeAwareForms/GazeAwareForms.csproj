@@ -175,6 +175,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="images\The Lion And The Mouse Poem 1.jpg" />
+    <None Include="Resources\Start-Here-Button.png" />
     <None Include="Resources\intro.jpg" />
     <None Include="Resources\playingmouse.jpg" />
     <None Include="Resources\sleepingLion2.jpg" />

@@ -14,7 +14,7 @@ namespace GazeAwareForms
         { 
          
             InitializeComponent();
-            var wordDelay = 325;
+            var wordDelay = 305;
             var pageDelay = 1200;
             DoubleBuffered = true;
 
@@ -67,8 +67,9 @@ namespace GazeAwareForms
         public void OnGaze(object sender, GazeAwareEventArgs e)
         {
             var label = sender as Label;
-            var button1 = sender as Button;
-            var button2 = sender as Button;
+            var button = sender as Button;
+
+        //            var button2 = sender as Button;
 
             var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
@@ -93,20 +94,21 @@ namespace GazeAwareForms
 
             }
 
-            if (button1 != null)
+            if (button != null)
             {
-                if (e.HasGaze == true)
+                if (button.Text == "Back")
                 {
-                    button1_Click(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button1_Click(sender, e);
+                    }
                 }
-              
-            }
-
-            if (button2 != null)
-            {
-                if (e.HasGaze == true)
+                else if (button.Text == "Next")
                 {
-                    button2_Click_1(sender, e);
+                    if (e.HasGaze == true)
+                    {
+                        button2_Click(sender, e);
+                    }
                 }
 
             }
@@ -121,12 +123,19 @@ namespace GazeAwareForms
             form.Show();
         }
 
-        private void button2_Click_1(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
             Page3 form = new Page3();
             this.Hide();
             form.Show();
             
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            GazeAwareForm form = new GazeAwareForm();
+            this.Hide();
+            form.Show();
         }
     }
 }

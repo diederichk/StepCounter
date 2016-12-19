@@ -30,12 +30,6 @@ namespace GazeAwareForms
         {
             var button1 = sender as Button;
 
-
-            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
-            //var audioURL = "Audio\\";
-            WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
-
-
             if (button1 != null)
             {
                 if (e.HasGaze == true)

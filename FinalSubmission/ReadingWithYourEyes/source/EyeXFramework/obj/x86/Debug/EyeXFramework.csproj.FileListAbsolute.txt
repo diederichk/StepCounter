@@ -12,3 +12,10 @@ C:\Users\Zeus\Documents\GitHub\StepCounter1\StepCounter\Suhas - Main Project\sou
 C:\Users\Zeus\Documents\GitHub\StepCounter1\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
 C:\Users\Zeus\Documents\GitHub\StepCounter1\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
 C:\Users\Zeus\Documents\GitHub\StepCounter1\StepCounter\Suhas - Main Project\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\bin\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\bin\x86\Debug\EyeXFramework.pdb
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\bin\x86\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\obj\x86\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\obj\x86\Debug\EyeXFramework.dll
+C:\Users\diede\Documents\CS4630_MobileComputing\StepCounter\FinalSubmission\ReadingWithYourEyes\source\EyeXFramework\obj\x86\Debug\EyeXFramework.pdb

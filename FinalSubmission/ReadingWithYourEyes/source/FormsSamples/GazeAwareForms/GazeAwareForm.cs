@@ -76,9 +76,8 @@ namespace GazeAwareForms
     
 
         // Variables required to play sound
-       // var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
-            var audioURL = "..\\Suhas - Main Project\\AudioFiles\\";
-            //var audioURL = "Audio\\";
+        // var audioURL = "C:\\Users\\diede\\Documents\\CS4630_MobileComputing\\StepCounter\\AudioFiles\\";
+            var audioURL = "..\\ReadingWithYourEyes\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
 

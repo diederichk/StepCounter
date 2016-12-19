@@ -62,9 +62,9 @@ namespace GazeAwareForms
         {
             var label = sender as Label;
             var button = sender as Button;
-        
 
-            var audioURL = "C:\\Users\\Suhas\\Desktop\\Suhas - Main Project\\AudioFiles\\";
+
+            var audioURL = "..\\ReadingWithYourEyes\\AudioFiles\\";
             WindowsMediaPlayer myplayer = new WMPLib.WindowsMediaPlayer();
 
             if (label != null)
